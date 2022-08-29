@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eduardxmartinez/creacionlibrerias/issues"
+    "url": "https://github.com/eduardxmartinez/CreacionLibrerias/issues"
   },
-  "homepage": "https://github.com/eduardxmartinez/creacionlibrerias",
+  "homepage": "https://github.com/eduardxmartinez/CreacionLibrerias",
   "dependencies": {
     "@emotion/css": "^11.10.0"
   },
