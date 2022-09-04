@@ -2,7 +2,7 @@ import { render } from '@testing-library/react'
 import ContainerFlex from './ContainerFlex'
 
 describe('@components/ContainerFlex', () => {
-    it("ads", () => {
+    it("Render ContainerFlex", () => {
         // arrange
         const {getByRole} = render(
             <ContainerFlex role="banner"/>
