@@ -14,7 +14,7 @@ const Text = forwardRef((props, ref) => {
     const element = createElement(component, {
         ...otherProps,
         ref,
-        className: cx(TextStyles(fontSize, fontWeight, lineHeight), className) 
+        className: cx(TextStyles(fontWeight, fontSize, lineHeight), className) 
     })    
 
     return element;
@@ -30,6 +30,6 @@ Text.propTypes = {
 
 Text.defaultProps = {
     component: "p",
-}
+};
 
 export default Text;
