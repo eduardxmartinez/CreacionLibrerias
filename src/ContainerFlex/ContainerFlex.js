@@ -10,7 +10,7 @@ const containerFlexStyles = (width, height, bgColor, flexDirection, alignContent
     flex-direction: ${flexDirection};
     align-content: ${alignContent};
     align-items: ${alignItems};
-    justify-content: ${justifyContent}
+    justify-content: ${justifyContent};
     gap: ${gap};
 `
 
